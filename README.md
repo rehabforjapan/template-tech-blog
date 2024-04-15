@@ -42,7 +42,7 @@ npx zenn new:article --slug 記事のスラッグ --title タイトル --type id
 ![画像の説明](/images/{slug}/{***})
 ```
 
-## 2.プレビュー
+## 2.記事のプレビュー
 
 ```shell
 npx zenn preview
@@ -54,4 +54,20 @@ Front Matterで
 `published: true`
 を指定することで公開される
 
+## 4.記事をRehabのPublicationに追加する
+
+Front Matterで
+`publication_name: "rehabforjapan"` を指定することで、RehabのPublicationに追加される
+
 ## 4.PRレビュー
+
+レビューを受ける
+
+### レビュアーとなる人
+
+- チーム/グループの誰かがレビューする
+  - マネージャが促していく
+  - それでもレビューアがいない場合は、マネージャーかTechBlog有志メンバーが見る
+    - @久保田将規 / まさき @松田尚也/まっちゃん @高野須悠人/のす
+- 最終チェック： @久良木遼
+  - コンプラチェック程度
