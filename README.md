@@ -7,6 +7,13 @@
 
 [Zenn CLIの導入手順](https://zenn.dev/zenn/articles/install-zenn-cli#zenn-cli%E3%81%AE%E5%B0%8E%E5%85%A5%E6%89%8B%E9%A0%86)
 
+### Node.jsのインストール
+
+[Node.jsのインストール](https://nodejs.org/ja/download/)
+[参考記事(Mac)](https://qiita.com/blue_fish/items/7440df68734f3d5ce772)
+
+### Zenn CLIの導入
+
 ```shell
 npm init --yes # プロジェクトをデフォルト設定で初期化
 npm install zenn-cli # zenn-cliを導入
@@ -18,7 +25,7 @@ npm install zenn-cli # zenn-cliを導入
 npx zenn init
 ```
 
-### Zenn CLIのアップデート
+### (Zenn CLIのアップデート)
 
 ```shell
 npm install zenn-cli@latest
