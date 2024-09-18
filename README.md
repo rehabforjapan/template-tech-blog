@@ -1,7 +1,6 @@
 # template-tech-blog
 
 このテンプレートリポジトリを使って、各自のリポジトリを作成してください。
-[作成方法](https://rehabforjapan.atlassian.net/wiki/spaces/development/pages/2255978892/Tech+Blog)
 
 ## 0.準備
 
